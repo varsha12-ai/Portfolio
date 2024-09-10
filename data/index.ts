@@ -118,7 +118,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "IIRF Ranking",
+    title: "IIRF Ranking ",
     des: "IIRFRanking.com is a platform dedicated to providing rankings and insights into educational institutions across India. It offers detailed evaluations of universities, colleges, and schools based on various parameters like academic excellence, infrastructure, and research output. The platform serves as a trusted resource for students and parents seeking informed decisions on education.",
     img: "iirfranking.com.jpg",
     iconLists: [
