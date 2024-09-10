@@ -36,7 +36,9 @@ const Footer = () => {
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2024 varsha
         </p>
-
+        <p className="md:text-base text-sm md:font-normal font-light">
+          Contact No: 8299689670
+        </p>
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((info) => (
             <div
